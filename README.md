@@ -25,7 +25,7 @@ A high-precision countdown timer with text-to-speech (TTS) announcements in a si
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/PrecisionTTS-Countdown.git
+git clone https://github.com/iyoramu/PrecisionTTS-Countdown-py.git
 cd PrecisionTTS-Countdown
 
 # Install dependencies
