@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-World-Class Countdown Timer with Text-to-Speech
-Competition Entry for Python Countdown Challenge
+Countdown Timer with Text-to-Speech
 
 Features:
 - Precise countdown timing with millisecond accuracy
